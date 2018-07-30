@@ -3,6 +3,8 @@
 
 This code is about 100 times of the Monte Carlo Simulation using Robusta coffee spot price and other variables such as Arabica coffee price in Brazil, Brent crude oil, Inventories in certified storage, Absolute value of weather consition, and the forex rates of Brazil.
 
+During the seminar (Commodity Trading), most of forecasts were done by STATA. However, the data mining, making graphs and running Monte Carlo simulations were done by Python.
+
 Some of Anaconda users may face the trouble with pandas_datareader. You can install following the link of official documents. https://media.readthedocs.org/pdf/pandas-datareader/stable/pandas-datareader.pdf
 
 
